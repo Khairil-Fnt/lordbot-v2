@@ -8,13 +8,13 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '19092932420': { // put your number here
+  '601123550412': { // put your number here
     name: 'Khairil (Owner)',
     isDev: true,
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '447446569227': { // put your number here
+  '60109102984': { // put your number here
     name: 'Beban Bot (Bot2)',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: false, // if true this number will send if user use command /report or /join
